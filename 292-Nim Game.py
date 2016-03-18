@@ -11,10 +11,15 @@ For example, if there are 4 stones in the heap, then you will never win the game
 Show Hint 
 '''
 class Solution(object):
-	def canWinNim(self, n):
+    def canWinNim(self, n):
         """
         :type n: int
         :rtype: bool
         """
         return n % 4 != 0
+
+
+
+a = Solution()
+print a.canWinNim(3)
 		
