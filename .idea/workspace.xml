@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="525ab7ba-ad7e-4d92-8cd4-1cec79c8c497" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/191. Number of 1 Bits.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/206. Reverse Linked List.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="525ab7ba-ad7e-4d92-8cd4-1cec79c8c497" name="Default" comment="" />
     <ignored path="Leetcode_GOGOGO.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -41,6 +37,36 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="235. Lowest Common Ancestor of a Binary Search Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/235. Lowest Common Ancestor of a Binary Search Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="328. Odd Even Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/328. Odd Even Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="70. Climbing Stairs.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/70. Climbing Stairs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.75652176">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="191. Number of 1 Bits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/191. Number of 1 Bits.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="13. Roman to Integer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="13. Roman to Integer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/13. Roman to Integer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.104347825">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -89,6 +115,9 @@
         <option value="$PROJECT_DIR$/Easy/206. Reverse Linked List.py" />
         <option value="$PROJECT_DIR$/Easy/191. Number of 1 Bits.py" />
         <option value="$PROJECT_DIR$/Easy/13. Roman to Integer.py" />
+        <option value="$PROJECT_DIR$/Easy/235. Lowest Common Ancestor of a Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/Easy/328. Odd Even Linked List.py" />
+        <option value="$PROJECT_DIR$/Easy/70. Climbing Stairs.py" />
       </list>
     </option>
   </component>
@@ -432,6 +461,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="525ab7ba-ad7e-4d92-8cd4-1cec79c8c497" name="Default" comment="" />
@@ -465,6 +497,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -482,10 +522,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/206. Reverse Linked List.py">
+    <entry file="file://$PROJECT_DIR$/Easy/13. Roman to Integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -498,10 +538,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/13. Roman to Integer.py">
+    <entry file="file://$PROJECT_DIR$/Easy/206. Reverse Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.104347825">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/235. Lowest Common Ancestor of a Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/328. Odd Even Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/70. Climbing Stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75652176">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
           <folding />
         </state>
       </provider>
