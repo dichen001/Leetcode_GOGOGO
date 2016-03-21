@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525ab7ba-ad7e-4d92-8cd4-1cec79c8c497" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/226-Invert Binary Tree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/quickSort.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Easy/263. Ugly Number.py" afterPath="$PROJECT_DIR$/Easy/263. Ugly Number.py" />
     </list>
     <ignored path="Leetcode_GOGOGO.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,11 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="263. Ugly Number.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="263. Ugly Number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/263. Ugly Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65217394">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="202. Happy Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/202. Happy Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8086957">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -143,6 +152,7 @@
         <option value="$PROJECT_DIR$/Easy/328. Odd Even Linked List.py" />
         <option value="$PROJECT_DIR$/Easy/70. Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/Easy/263. Ugly Number.py" />
+        <option value="$PROJECT_DIR$/Easy/202. Happy Number.py" />
       </list>
     </option>
   </component>
@@ -667,8 +677,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/263. Ugly Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65217394">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/202. Happy Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8086957">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
           <folding />
         </state>
       </provider>
