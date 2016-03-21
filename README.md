@@ -38,4 +38,16 @@ There is a lot of things to to done in the next 2 or 3 days...
 
 oh... just kill me! Do I need some sleep or some coffee?
 
+### Day 4: 03/20/2016
+What a fruitless day... Spending all day at lab without completing anything.
+ - Learned the Floyd's Detection Algorithm. It's really a powerful and widely application algorithm.
+ - Add job title, company name, address feature to talon, proved improvement in precision, while decreasement in recall. In general, the f-score decrease from 0.7 to 0.5. 
+ - Also fixed several bugs in the code.
+ - [ ] need to mark the emails again, and write to extraction code.
+ - [ ] need some time to finish hw3 for csc522. Mid-term is around the corner.
+
+oh, Apple is going to release new products 7 hours later. Luckly, I haven't got enough money to upgrade my laptop. Tools matters though, your willingness matters more.
+
+
+
 
