@@ -21,13 +21,6 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        slow = go(n)
-        fast = go(slow)
-        while slow != fast:
-            slow = go(slow)
-            fast = go(go(fast))
-        return slow == 1
-
         def go(n):
             sum = 0
             while n:
@@ -35,3 +28,11 @@ class Solution(object):
                 sum = sum + i*i
                 n = n / 10
             return sum
+
+        slow = go(n)
+        fast = go(slow)
+        while slow != fast:
+            slow = go(slow)
+            fast = go(go(fast))
+        return slow == 1
+
