@@ -48,6 +48,18 @@ What a fruitless day... Spending all day at lab without completing anything.
 
 oh, Apple is going to release new products 7 hours later. Luckly, I haven't got enough money to upgrade my laptop. Tools matters though, your willingness matters more.
 
+### Day 5: 03/21/2016   22/338
+ 
+ - [********50%----------] of hw3 done.
+ - run around lake
+ - 5 done.
 
+Wasted more than 2 hours cooking and watching the Most Smart Brain... I should use this time coding new stuff, reading textbooks, papers.  I have to set serveral rules for myself. That is a must to challenge myself and push me forward to a totally new level.
 
+> Rule 1: Stop wasting your life on the entertainment videos.
+> Rule 2: Reduce time spending on Social Networks. The less the better.
+> Rule 3: Get rid of the illusions that buying some fancy things will make my life much better. 
+> Rule 4: Always prepare for the worst, but working for the best. (This may to too abstract... but, it looks so good. Anyway, I'd put it here.) 
+> Rule 5: DO NOT just make rules, and then let them hang there, sleep, and die.
 
+Another update about my life. Restart drinking coffee again. It's a good sign for me. I am exploring my potentials again. Good night, Jack.
