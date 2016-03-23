@@ -63,3 +63,10 @@ Wasted more than 2 hours cooking and watching the Most Smart Brain... I should u
 > Rule 5: DO NOT just make rules, and then let them hang there, sleep, and die.
 
 Another update about my life. Restart drinking coffee again. It's a good sign for me. I am exploring my potentials again. Good night, Jack.
+
+### Day 6: 22/03/2016 24/338
+Turns out not efficient in afternoon, and after dinner... Fell asleep without knowing that I was sleeping. So scary. Shall keep a good habit after being busy for this week. 
+
+Need to find the TA for CSC510 and CSC522. I sucks at the exam. Tomorrow is the review section for CSC522. Need to get up early.
+
+- [x] pre-processor for detailed information extraction from emails.
