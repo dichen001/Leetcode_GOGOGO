@@ -70,3 +70,9 @@ Turns out not efficient in afternoon, and after dinner... Fell asleep without kn
 Need to find the TA for CSC510 and CSC522. I sucks at the exam. Tomorrow is the review section for CSC522. Need to get up early.
 
 - [x] pre-processor for detailed information extraction from emails.
+
+### Day 7: 23/03/2016 27/338
+A big news today, after the last big news 7 days ago. I get the funding to be paid to work in our lab. It means I do not need to find a internship this summer, but it does not mean I will stop practicing coding here on leetcode, neither does it mean I will become lazy or unabious wasting time on meanless things.
+ - prepared the presentation for FLE.
+ - Need to finish HW tomorrow morning for CSC522, and review in the afternoon.
+ - Gradually go back to a healthy life style. Go to bed early, and get up early.

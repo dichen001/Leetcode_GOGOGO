@@ -39,4 +39,3 @@ class Solution(object):
             pre = a
         return self.next
 
-        
