@@ -80,3 +80,9 @@ A big news today, after the last big news 7 days ago. I get the funding to be pa
  - prepared the presentation for FLE.
  - Need to finish HW tomorrow morning for CSC522, and review in the afternoon.
  - Gradually go back to a healthy life style. Go to bed early, and get up early.
+
+### Day 7: 23/03/2016 26/338
+- Find my presentation topic not so interesting.
+- Still haven't finish my homework... MUST get it done tomorrow morning. 
+- Tax Forms.
+- Review and prepare the cheetsheet.
