@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="525ab7ba-ad7e-4d92-8cd4-1cec79c8c497" name="Default" comment="" />
+    <list default="true" id="525ab7ba-ad7e-4d92-8cd4-1cec79c8c497" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Easy/118. Pascal's Triangle.py" afterPath="$PROJECT_DIR$/Easy/118. Pascal's Triangle.py" />
+    </list>
     <ignored path="Leetcode_GOGOGO.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -121,8 +123,8 @@
       <file leaf-file-name="118. Pascal's Triangle.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Easy/118. Pascal's Triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76521736">
-              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.4173913">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -1021,8 +1023,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/118. Pascal's Triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76521736">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.4173913">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding />
         </state>
       </provider>

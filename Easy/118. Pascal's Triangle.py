@@ -43,7 +43,7 @@ class Solution(object):
     # for i in range(1, numRows):
     #     res += [map(lambda x, y: x+y, res[-1] + [0], [0] + res[-1])]
     # return res[:numRows]
-    
+
     # # explanation: Any row can be constructed using the offset sum of the previous row. Example:
     #  #    1 3 3 1 0
     #  # +  0 1 3 3 1

@@ -86,3 +86,11 @@ A big news today, after the last big news 7 days ago. I get the funding to be pa
 - Still haven't finish my homework... MUST get it done tomorrow morning. 
 - Tax Forms.
 - Review and prepare the cheetsheet.
+
+### Day 8: 24/23/2015 29/338
+- Finally got HW3 done.
+- Need to finish reviewing tomorrow morning.
+- Get the post-processing part done.
+- Maybe some time on Machanic Turkey.
+- Maybe one run around the lake.
+Maybe above tasks are too much?
