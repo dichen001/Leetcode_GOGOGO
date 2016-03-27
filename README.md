@@ -81,16 +81,21 @@ A big news today, after the last big news 7 days ago. I get the funding to be pa
  - Need to finish HW tomorrow morning for CSC522, and review in the afternoon.
  - Gradually go back to a healthy life style. Go to bed early, and get up early.
 
-### Day 7: 23/03/2016 26/338
+### Day 7: 23/03/2016 29/338
 - Find my presentation topic not so interesting.
 - Still haven't finish my homework... MUST get it done tomorrow morning. 
 - Tax Forms.
 - Review and prepare the cheetsheet.
 
-### Day 8: 24/23/2015 29/338
+### Day 8: 24/23/2015 32/338
 - Finally got HW3 done.
 - Need to finish reviewing tomorrow morning.
 - Get the post-processing part done.
 - Maybe some time on Machanic Turkey.
 - Maybe one run around the lake.
 Maybe above tasks are too much?
+
+### Day 9: 25/23/2015 35/338
+- reviewing: 80% done.
+- Get the Machanic Turkey done tomorrow.
+- Code on CSC510
