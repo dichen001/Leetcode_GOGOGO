@@ -87,7 +87,7 @@ A big news today, after the last big news 7 days ago. I get the funding to be pa
 - Tax Forms.
 - Review and prepare the cheetsheet.
 
-### Day 8: 24/23/2015 32/338
+### Day 8: 24/03/2016 32/338
 - Finally got HW3 done.
 - Need to finish reviewing tomorrow morning.
 - Get the post-processing part done.
@@ -95,7 +95,13 @@ A big news today, after the last big news 7 days ago. I get the funding to be pa
 - Maybe one run around the lake.
 Maybe above tasks are too much?
 
-### Day 9: 25/23/2015 35/338
+### Day 9: 25/03/2016 35/338
 - reviewing: 80% done.
 - Get the Machanic Turkey done tomorrow.
 - Code on CSC510
+
+### Day 10: 26/03/2016 35/338
+Fully prepared for the exam. But may spend too much time on reviewing. I don't think I spent the weeken in an efficient way.
+- Get Machanic Turkey survey done.
+- Mark the emails.
+- Post-processing part.
