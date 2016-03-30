@@ -20,6 +20,8 @@ Spending so much time to practice bug-free Quick Sort...
 
 I may have to write the sort functions every few days just to keep the sharpness of writing basic algorithms.
 
+- finish the coding for post-processing and statistics part.
+- Coding on Spark.
 Enter the 30%+ Easy Zone.  Great to see so many totally different solutions even for a very simple question!  Human ia an amazing animal!!!  Powerful of the mind.  Keep going!
 
 ### Day 3: 03/19/2016
@@ -81,13 +83,13 @@ A big news today, after the last big news 7 days ago. I get the funding to be pa
  - Need to finish HW tomorrow morning for CSC522, and review in the afternoon.
  - Gradually go back to a healthy life style. Go to bed early, and get up early.
 
-### Day 7: 23/03/2016 29/338
+### Day 7: 24/03/2016 29/338
 - Find my presentation topic not so interesting.
 - Still haven't finish my homework... MUST get it done tomorrow morning. 
 - Tax Forms.
 - Review and prepare the cheetsheet.
 
-### Day 8: 24/03/2016 32/338
+### Day 8: 25/03/2016 32/338
 - Finally got HW3 done.
 - Need to finish reviewing tomorrow morning.
 - Get the post-processing part done.
@@ -95,13 +97,23 @@ A big news today, after the last big news 7 days ago. I get the funding to be pa
 - Maybe one run around the lake.
 Maybe above tasks are too much?
 
-### Day 9: 25/03/2016 35/338
+### Day 9: 26/03/2016 35/338
 - reviewing: 80% done.
 - Get the Machanic Turkey done tomorrow.
 - Code on CSC510
 
-### Day 10: 26/03/2016 35/338
+### Day 10: 27/03/2016 35/338
 Fully prepared for the exam. But may spend too much time on reviewing. I don't think I spent the weeken in an efficient way.
 - Get Machanic Turkey survey done.
 - Mark the emails.
 - Post-processing part.
+
+### Day 11: 28/03/2016 35/338
+Played with Mechanic Turk. It's so powerful that just shocked me!!!! Amazon is damn awesome!! I love amazon.
+
+Read an article talking about "Go to bed and sleep, Programmer!" Now, I totally agree with the writer. Time to go to bed.
+
+### Day 12: 29/03/2016 35/338
+I am now quite comfortable with Mechanical Turk. Marking 1000 emails within 1 hours. Damn it! Can't believe my eyes. Feel so sad so the time I spent marking the emails by myself.
+- Begin work on Spark tomorrow.
+
