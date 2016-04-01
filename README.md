@@ -117,3 +117,10 @@ Read an article talking about "Go to bed and sleep, Programmer!" Now, I totally 
 I am now quite comfortable with Mechanical Turk. Marking 1000 emails within 1 hours. Damn it! Can't believe my eyes. Feel so sad so the time I spent marking the emails by myself.
 - Begin work on Spark tomorrow.
 
+### Day 13: 30/03/2016
+Share the MT results with group members. Got new things to work on.
+- literature review. for icse.
+
+### Day 14: 31/03/2016
+Playing with spark on my local machine.  Now I undestand the Spark Transformations and Actions much better.
+- start coding on CSC510
