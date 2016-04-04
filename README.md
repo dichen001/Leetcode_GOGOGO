@@ -135,5 +135,5 @@ Read through 510 code. Got some ideas, but didn't code 1 line.
 Add checkbox on the GUI to enable the feature selections.
 - Getting familar with Tkinter API for Python API programming.
 - Shall begin work on Literature Review for Crowdsourcing.
-- 
+
 :scream:**What a pity losting my active track on Github.**:scream: So my longest track is **21 days** now. Also realize it's so hard to keep active for a long time on Github. Sometime you just not productive, or have so many things to do. But I know that's just bullshit. I am finding excuse for my laziness. :sob:
