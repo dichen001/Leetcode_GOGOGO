@@ -124,3 +124,15 @@ Share the MT results with group members. Got new things to work on.
 ### Day 14: 31/03/2016
 Playing with spark on my local machine.  Now I undestand the Spark Transformations and Actions much better.
 - start coding on CSC510
+
+### Day 15: 01/04/2016
+Cannot remember what I did on this day. I may have wasted it without know it.
+
+### Day 16: 02/04/2016 36/338
+Read through 510 code. Got some ideas, but didn't code 1 line.
+
+### Day 12: 03/04/2016
+Add checkbox on the GUI to enable the feature selections.
+- Getting familar with Tkinter API for Python API programming.
+- Shall begin work on Literature Review for Crowdsourcing.
+
