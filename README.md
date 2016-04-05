@@ -131,9 +131,13 @@ Cannot remember what I did on this day. I may have wasted it without know it.
 ### Day 16: 02/04/2016 36/338
 Read through 510 code. Got some ideas, but didn't code 1 line.
 
-### Day 12: 03/04/2016
+### Day 17: 03/04/2016
 Add checkbox on the GUI to enable the feature selections.
 - Getting familar with Tkinter API for Python API programming.
 - Shall begin work on Literature Review for Crowdsourcing.
 
 :scream:**What a pity losting my active track on Github.**:scream: So my longest track is **21 days** now. Also realize it's so hard to keep active for a long time on Github. Sometime you just not productive, or have so many things to do. But I know that's just bullshit. I am finding excuse for my laziness. :sob:
+
+### Day 18: 04/04/2016 38/338
+Papar reading on Crowdsourcing. Learned a lot talking with Tao Sun. He is quite experienced on Crowdsourcing stuff and has done many experiments on Mechanical Turk.
+- My running today gets close to 5 min/km. Fasted speed at the moment. I am quite confident that I will make it less than 5.
