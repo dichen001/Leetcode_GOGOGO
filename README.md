@@ -141,3 +141,8 @@ Add checkbox on the GUI to enable the feature selections.
 ### Day 18: 04/04/2016 38/338
 Papar reading on Crowdsourcing. Learned a lot talking with Tao Sun. He is quite experienced on Crowdsourcing stuff and has done many experiments on Mechanical Turk.
 - My running today gets close to 5 min/km. Fasted speed at the moment. I am quite confident that I will make it less than 5.
+
+### Day 19: 04/05/2016 39/338
+Finish reading the research note. Amazing papers. Make me realize publishing one great paper is such a hard job.
+- enble the unread numbers showing in the button of our email GUI.
+- literature review report tomorrow? OMG, what am I gona report?
