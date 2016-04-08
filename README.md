@@ -146,3 +146,11 @@ Papar reading on Crowdsourcing. Learned a lot talking with Tao Sun. He is quite 
 Finish reading the research note. Amazing papers. Make me realize publishing one great paper is such a hard job.
 - enble the unread numbers showing in the button of our email GUI.
 - literature review report tomorrow? OMG, what am I gona report?
+
+### Day 20: 04/06/2016 39/338
+Got a chance for summer intern at LexisNexis. May lose it cause I have to go on Vacation on July 27th.
+
+### Day 21: 04/07/2016 41/341
+Lost the chance. Will do RA for summer. I'd like to be full-time, but not sure what my contract will say.
+ - CSC510 report done.
+ - 160. Merging two linked list is a great idea.
