@@ -154,3 +154,17 @@ Got a chance for summer intern at LexisNexis. May lose it cause I have to go on 
 Lost the chance. Will do RA for summer. I'd like to be full-time, but not sure what my contract will say.
  - CSC510 report done.
  - 160. Merging two linked list is a great idea.
+
+### Day 22-25: 04/08-11/2016   '' almost forgot what I did ...''
+#### Done:
+- tfidf reduction, Spark Implementation. Fri.-Sat.
+- OS midterm 2 grading, done. Sun.
+- FLE hw done. Mon.
+- Got invitation from LN. Mon.
+
+#### Sucks:
+- paper reading? no...
+- CSC522 HW4? no...
+- Go to bed early? no...
+- Get up early? no...
+- Continuesly contribute on Github? no...
