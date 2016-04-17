@@ -173,8 +173,8 @@ Lost the chance. Will do RA for summer. I'd like to be full-time, but not sure w
  - CSC522 HW4 40% done.
  - 1000 Email reviewed
 
--[x] deadlines of conferences
--[x] spark......
+ - [x] deadlines of conferences
+ - [x] spark......
 
 ### Day 27: 04/13/2016
 - spark done.
@@ -196,4 +196,4 @@ Lost the chance. Will do RA for summer. I'd like to be full-time, but not sure w
 - HW4 finally done.
 - FLE rewriting.
 
-- [] Vedio recording
+- [ ] Vedio recording
