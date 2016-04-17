@@ -172,5 +172,28 @@ Lost the chance. Will do RA for summer. I'd like to be full-time, but not sure w
 ### Day 26: 04/12/2016
  - CSC522 HW4 40% done.
  - 1000 Email reviewed
- - [] deadlines of conferences
- - [] spark......
+
+-[x] deadlines of conferences
+-[x] spark......
+
+### Day 27: 04/13/2016
+- spark done.
+- meeting 
+
+### Day 27: 04/14/2016
+- gradings. 
+- the posibility to get an intern is quite low now.
+
+### Day 28: 04/15/2016
+- spark done
+- CSC522 HW4 Q1
+
+### Day 29: 04/15/2016
+- CSC 522 HW4 Q2, and plotiing kills me
+- tried to improve Spark. failed.
+
+### Day 30: 04/16/2016
+- HW4 finally done.
+- FLE rewriting.
+
+- [] Vedio recording
