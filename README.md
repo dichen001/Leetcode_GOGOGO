@@ -196,4 +196,22 @@ Lost the chance. Will do RA for summer. I'd like to be full-time, but not sure w
 - HW4 finally done.
 - FLE rewriting.
 
-- [ ] Vedio recording
+- [x] Vedio recording
+
+### Day 31: 04/17/2016
+no idea what I did
+
+### Day 32: 04/18/2016
+- email parser refactoring.
+- get the csv file manupilation done.
+
+### Day 33: 04/19/2016
+- email signature predict into detail, done
+- CSC510 presentation done
+
+### Day 34: 04/20/2016
+- email evaluation, generaly part done. 
+- CSC522 presentation done
+- interview done.
+
+
