@@ -214,4 +214,13 @@ no idea what I did
 - CSC522 presentation done
 - interview done.
 
+### Day 35: 04/21/2016
+- Last class for FLE 401 and CSC 510.
+- update I-20
+- got phone call for summer intern offer.
+
+### Day 36: 04/22/2016  :star2: :boom:
+- official offer letter received.
+- run experiments for Parser.
+- preparing CPT and other documentation stuff. 
 
