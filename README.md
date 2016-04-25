@@ -229,6 +229,7 @@ no idea what I did
 - HW5 done.
 
 ### Day 38: 04/24/2016:
+- Graded PA4, not sure about the results. Still running.
 - issue reported.
 - Problem found. improve recall from 40% to 80%.
 - That is because I take all the email sentences into training.... about 1k Sig while 20k without.
