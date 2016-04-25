@@ -224,3 +224,17 @@ no idea what I did
 - run experiments for Parser.
 - preparing CPT and other documentation stuff. 
 
+### Day 37: 04/23/2016:
+- Reviewed CSC522, 1 slide left
+- HW5 done.
+
+### Day 38: 04/24/2016:
+- issue reported.
+- Problem found. improve recall from 40% to 80%.
+- That is because I take all the email sentences into training.... about 1k Sig while 20k without.
+
+### Day 39: 04/25/2016
+- Review CSC 522, Prepare Cheatsheet
+- FLE Slides
+- CSC510 Project
+
